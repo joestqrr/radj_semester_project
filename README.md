@@ -70,4 +70,4 @@ Requirements:
 ## Repository Link and First Checkpoint Date
 
 - Repository: https://github.com/joestqrr/radj_semester_project
-- First Checkpoint: Initial Pages and Navigation Shell — October 2026
+- First Checkpoint: Initial Pages and Navigation Shell - October 2026
