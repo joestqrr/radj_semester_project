@@ -7,7 +7,7 @@ This covers the first checkpoint: navigation works before any API/database integ
 
 ## Members and Roles
 
-Individual activity — solo project.
+Individual activity.
 
 | Name | Role |
 | ---- | ---- |
